@@ -1,0 +1,9 @@
+{
+  "name": "wp-pt/qqworld-auto-save-images",
+  "type": "wp-pt",
+  "extra": {
+    "branch-alias": {
+      "dev-master": "1.x.x.x"
+    }
+  }
+}
